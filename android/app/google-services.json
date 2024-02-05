@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "952573746147",
+    "project_id": "amit58-e49e4",
+    "storage_bucket": "amit58-e49e4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:952573746147:android:7ccd74805b04646e4a9ed6",
+        "android_client_info": {
+          "package_name": "com.example.mtg"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTNpLS5ZLTlq6V8Tl_rHWXKZ8UNX7roMo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:952573746147:android:d18943a0933ccdaa4a9ed6",
+        "android_client_info": {
+          "package_name": "com.example.socialmedia"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTNpLS5ZLTlq6V8Tl_rHWXKZ8UNX7roMo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
